@@ -8,6 +8,20 @@
 
 ## Technical Background
 
-I have hands-on experience on C, python, SQL and bascis of Java.
+I have hands-on experience on C, python, SQL and bascis of Java. Here are the projects that I did for my undergrad, 
+Approach to Detecting Phishing Attacks
+- Developed a phishing detection system to protect consumers from cyber-attacks during online transactions.
+- Conducted research on existing phishing detection methods and identified the limitations of each method.
+- Tested the system using a dataset of phishing websites and achieved an accuracy of 90%.
+Who Wants to Be a Millionaire?
+- Developed a virtual version of the game show "Who Wants to Be a Millionaire?" with user-defined functions to enhance
+player engagement.
+- Wrote user-defined functions using python to help the player interact with the game.
+- Resulted in an engaging and interactive game that can be played by a single player.
+Gas Leakage Detection System
+- Created a gas leakage detection system using IoT to detect harmful gases in the environment and alert people to evacuate
+the area.
+- Connected hardware parts with software and wrote the sketch to function accordingly.
+- Utilized Arduino and IoT to create the system and implemented the final product.
 
-![Favorite Meme](https://www.google.com/imgres?imgurl=https%3A%2F%2Fih1.redbubble.net%2Fimage.1049564717.2631%2Fflat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg&tbnid=t91QV70_tFHv5M&vet=12ahUKEwihn6eNkceBAxWoNN4AHVDyAPkQMygHegQIARBC..i&imgrefurl=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fgreeting-card%2FMichael-Scott-Meme-by-dewlensart%2F44452631.5MT14&docid=0wWSGMZe8Hp2OM&w=750&h=1000&q=michael%20scott%20memes&ved=2ahUKEwihn6eNkceBAxWoNN4AHVDyAPkQMygHegQIARBC)
+![Favorite Meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.writersdomain.net%2F7-more-bad-writing-habits-to-kick-in-2016%2Fmichael-scott-sentence-meme%2F&psig=AOvVaw03E2zlfpQEz9o7XefKJbfw&ust=1695822505484000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNjixaK1yIEDFQAAAAAdAAAAABAJ)
