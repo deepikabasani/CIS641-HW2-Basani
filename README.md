@@ -24,4 +24,4 @@ the area.
 - Connected hardware parts with software and wrote the sketch to function accordingly.
 - Utilized Arduino and IoT to create the system and implemented the final product.
 
-![Favorite Meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.writersdomain.net%2F7-more-bad-writing-habits-to-kick-in-2016%2Fmichael-scott-sentence-meme%2F&psig=AOvVaw03E2zlfpQEz9o7XefKJbfw&ust=1695822505484000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNjixaK1yIEDFQAAAAAdAAAAABAJ)
+![Favorite Meme](https://1drv.ms/i/s!As--NMVedYumoFWfzNlHMR6vjhEA?e=g5plcm)
