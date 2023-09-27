@@ -1,13 +1,22 @@
 # Mary Deepika Basani
 I am a highly driven and accomplished Computer Science graduate who is now pursuing a Master of Science in Applied Computer Science at Grand Valley State University. With a strong background in computer science and a passion for technology, I have acquired a varied range of talents and experiences that I am delighted to display in this portfolio.
+
 ## Contact Information
+
 •	Address: 285 Manzana Ct NW Apt, Grand Rapids, Michigan 49534
+
 •	Phone: 616-329-7013
+
 •	Email: basani.marydeepika@gmail.com
+
 •	LinkedIn: https://www.linkedin.com/in/marydeepika-basani-820b7127b/
+
 ## Professional Experience
+
 IT Student Technician
+
 Grand Valley State University
+
 As an IT Student Technician at GVSU, I have provided essential support for various technology-related needs. This includes assisting with IT Service Desk inquiries, offering walk-up support, handling emails, calls, and addressing other technology-related requests. This role has allowed me to develop strong problem-solving and customer service skills in a real-world IT environment.
 
 
