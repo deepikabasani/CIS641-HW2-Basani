@@ -1,11 +1,11 @@
 # Mary Deepika Basani
 I am a highly driven and accomplished Computer Science graduate who is now pursuing a Master of Science in Applied Computer Science at Grand Valley State University. With a strong background in computer science and a passion for technology, I have acquired a varied range of talents and experiences that I am delighted to display in this portfolio.
-##Contact Information
+## Contact Information
 •	Address: 285 Manzana Ct NW Apt, Grand Rapids, Michigan 49534
 •	Phone: 616-329-7013
 •	Email: basani.marydeepika@gmail.com
 •	LinkedIn: https://www.linkedin.com/in/marydeepika-basani-820b7127b/
-##Professional Experience
+## Professional Experience
 IT Student Technician
 Grand Valley State University
 As an IT Student Technician at GVSU, I have provided essential support for various technology-related needs. This includes assisting with IT Service Desk inquiries, offering walk-up support, handling emails, calls, and addressing other technology-related requests. This role has allowed me to develop strong problem-solving and customer service skills in a real-world IT environment.
@@ -17,7 +17,7 @@ As an IT Student Technician at GVSU, I have provided essential support for vario
 - Cooking
 - Exploring new things
 
-##Education
+## Education
 Master's in Applied Computer Science
 Grand Valley State University
 Currently pursuing a Master's degree in Applied Computer Science, I am dedicated to expanding my knowledge and expertise in the field. This program has equipped me with advanced skills in computer science, data analysis, and machine learning.
@@ -44,12 +44,12 @@ the area.
 - Connected hardware parts with software and wrote the sketch to function accordingly.
 - Utilized Arduino and IoT to create the system and implemented the final product.
 
-##Certifications
+## Certifications
 •	Analysing and Visualizing Data the Google Way
 •	Data Visualization at University of Illinois
 •	Certified in Python at University of Michigan
 •	Certified in HTML at University of Michigan
-##Technical Expertise
+## Technical Expertise
 •	Microsoft Excel
 •	C Language
 •	Python
@@ -57,7 +57,7 @@ the area.
 •	Data Visualization
 •	Machine Learning
 •	HTML and CSS
-##Conclusion
+## Conclusion
 I am a dedicated and driven computer scientist with a strong academic foundation, practical experience, and a passion for technology. I am eager to contribute my skills and knowledge to exciting challenges in the field of computer science. Feel free to reach out to me at basani.marydeepika@gmail.com to discuss potential opportunities or collaborations.
 
 
