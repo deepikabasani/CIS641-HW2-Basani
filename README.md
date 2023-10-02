@@ -3,10 +3,6 @@ I am a highly driven and accomplished Computer Science graduate who is now pursu
 
 ## Contact Information
 
-•	Address: 285 Manzana Ct NW Apt, Grand Rapids, Michigan 49534
-
-•	Phone: 616-329-7013
-
 •	Email: basani.marydeepika@gmail.com
 
 •	LinkedIn: https://www.linkedin.com/in/marydeepika-basani-820b7127b/
