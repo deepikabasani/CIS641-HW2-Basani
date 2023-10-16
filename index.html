@@ -4,42 +4,77 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mary Deepika Basani - Portfolio</title>
+    
     <style>
-        /* Add your CSS styling here */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #B3E0FF; /* Light blue background */
+            color: black; /* Black text color */
         }
-        /* Customize your styles further */
+
+        h1, h2 {
+            color: black; /* Black heading and text color */
+        }
+
+        /* Initially, hide the sections with class "content" */
+        .content {
+            display: none;
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+        }
+
+        /* Style the main headings with link symbols */
+        .main-heading {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+
+        .main-heading::after {
+            content: "\1F517"; /* Unicode for link symbol */
+            font-size: 16px;
+            margin-left: 5px;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>Mary Deepika Basani</h1>
-        <p>I am a highly driven and accomplished Computer Science graduate who is now pursuing a Master of Science in Applied Computer Science at Grand Valley State University. With a strong background in computer science and a passion for technology, I have acquired a varied range of talents and experiences that I am delighted to display in this portfolio.</p>
+        <div class="content" id="intro" style="display: block;">
+            <p>I am a highly driven and accomplished Computer Science graduate who is now pursuing a Master of Science in Applied Computer Science at Grand Valley State University. With a strong background in computer science and a passion for technology, I have acquired a varied range of talents and experiences that I am delighted to display in this portfolio.</p>
+        </div>
     </header>
 
+    <!-- Main Headings with Link Symbols and Hidden Content -->
+    <h2 class="main-heading" onclick="toggleContent('contact')">Contact Information</h2>
+    <div class="content" id="contact">
+        <ul>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/marydeepika-basani-820b7127b/">LinkedIn Profile</a></li>
+        </ul>
+    </div>
 
-    <section id="experience">
-        <h2>Professional Experience</h2>
+    <h2 class="main-heading" onclick="toggleContent('experience')">Professional Experience</h2>
+    <div class="content" id="experience">
         <p><strong>IT Student Technician</strong><br>
         <em>Grand Valley State University</em><br>
         As an IT Student Technician at GVSU, I have provided essential support for various technology-related needs. This includes assisting with IT Service Desk inquiries, offering walk-up support, handling emails, calls, and addressing other technology-related requests. This role has allowed me to develop strong problem-solving and customer service skills in a real-world IT environment.</p>
-    </section>
+    </div>
 
-    <section id="interests">
-        <h2>Interests</h2>
+    <h2 class="main-heading" onclick="toggleContent('interests')">Interests</h2>
+    <div class="content" id="interests">
         <ul>
             <li>Reading Novels</li>
             <li>Cooking</li>
             <li>Exploring new things</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="education">
-        <h2>Education</h2>
+    <h2 class="main-heading" onclick="toggleContent('education')">Education</h2>
+    <div class="content" id="education">
         <ul>
             <li><strong>Master's in Applied Computer Science</strong><br>
             <em>Grand Valley State University</em><br>
@@ -49,10 +84,10 @@
             <em>Presidency University</em><br>
             My undergraduate education at Presidency University laid the foundation for my computer science journey. I acquired fundamental knowledge and skills in programming, algorithms, and computer systems during this time.</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="projects">
-        <h2>Projects</h2>
+    <h2 class="main-heading" onclick="toggleContent('projects')">Projects</h2>
+    <div class="content" id="projects">
         <p><strong>Approach to Detecting Phishing Attacks</strong><br>
         - Developed a phishing detection system to protect consumers from cyber-attacks during online transactions.<br>
         - Conducted research on existing phishing detection methods and identified the limitations of each method.<br>
@@ -67,20 +102,20 @@
         - Created a gas leakage detection system using IoT to detect harmful gases in the environment and alert people to evacuate the area.<br>
         - Connected hardware parts with software and wrote the sketch to function accordingly.<br>
         - Utilized Arduino and IoT to create the system and implemented the final product.</p>
-    </section>
+    </div>
 
-    <section id="certifications">
-        <h2>Certifications</h2>
+    <h2 class="main-heading" onclick="toggleContent('certifications')">Certifications</h2>
+    <div class="content" id="certifications">
         <ul>
             <li>Analysing and Visualizing Data the Google Way</li>
             <li>Data Visualization at University of Illinois</li>
             <li>Certified in Python at University of Michigan</li>
             <li>Certified in HTML at University of Michigan</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="skills">
-        <h2>Technical Expertise</h2>
+    <h2 class="main-heading" onclick="toggleContent('skills')">Technical Expertise</h2>
+    <div class="content" id="skills">
         <ul>
             <li>Microsoft Excel</li>
             <li>C Language</li>
@@ -90,7 +125,18 @@
             <li>HTML and CSS</li>
             <!-- Add more technical skills as needed -->
         </ul>
-    </section>
+    </div>
 
+    <script>
+        // JavaScript function to toggle content visibility
+        function toggleContent(id) {
+            const content = document.getElementById(id);
+            if (content.style.display === 'block') {
+                content.style.display = 'none';
+            } else {
+                content.style.display = 'block';
+            }
+        }
+    </script>
 </body>
 </html>
